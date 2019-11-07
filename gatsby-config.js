@@ -30,5 +30,29 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    {
+      resolve: '@wardpeet/gatsby-plugin-sharp-worker',
+      options: {
+        inputPaths: ['./src/images/mountains.jpg'],
+        digest: '1234',
+      }
+    },
+    {
+      resolve: '@wardpeet/gatsby-plugin-remote-file',
+      options: {
+        url: 'https://images.unsplash.com/photo-1568794065652-b9642d4be0ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+        ouputFilename: 'forest.jpg',
+      }
+    },
+    {
+      resolve: '@wardpeet/gatsby-plugin-sqip-worker',
+      options: {
+        inputPaths: ['./src/images/mountains.jpg'],
+      }
+    },
+    {
+      resolve: '@wardpeet/gatsby-plugin-structured-logging-worker',
+      options: {}
+    }
   ],
 }
