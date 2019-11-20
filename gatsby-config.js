@@ -50,9 +50,9 @@ module.exports = {
         inputPaths: ['./src/images/mountains.jpg'],
       }
     },
-    {
-      resolve: '@wardpeet/gatsby-plugin-structured-logging-worker',
-      options: {}
-    }
+//     {
+//       resolve: '@wardpeet/gatsby-plugin-structured-logging-worker',
+//       options: {}
+//     }
   ],
 }
