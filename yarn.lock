@@ -1304,38 +1304,38 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@wardpeet/gatsby-plugin-remote-file@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-remote-file/-/gatsby-plugin-remote-file-0.0.2.tgz#7fcfba315eaeb8442fe37afcfb511b770d5ca00e"
-  integrity sha512-zfS9irhv/+SE3UUHuvBEdWwZnhRlpoNQ58JWzbnSL8uPiOYMY1PrqEdNxpEjRv2I5mr3yERVSHl1/fEgY3XXvQ==
+"@wardpeet/gatsby-plugin-remote-file@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-remote-file/-/gatsby-plugin-remote-file-0.0.6.tgz#8abb85ec790151a11ae7236722fb66383200e17c"
+  integrity sha512-qf8dd4o8Acve4NlHHoQpOqfIFbdw85tHHxWyVTiPRdP9WZS+x9/Hsb8hqiJwcKrUIPjwU/bGMpVwB6ZAPjxRhw==
   dependencies:
     got "^9.6.0"
     make-dir "^3.0.0"
     p-defer "^3.0.0"
     uuid "^3.3.3"
 
-"@wardpeet/gatsby-plugin-sharp-worker@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sharp-worker/-/gatsby-plugin-sharp-worker-0.0.3.tgz#98dae7f3cccd80a2b7d05f44ffabda93f637f541"
-  integrity sha512-3C2Vk2nsM4sm2yr2CNSc8XRBLzN2S/rUovDVqnnTAcIfHy3noHTHw4VzHmZ2SRy/uDF3FfPVmfBKDP9mu8bLOA==
+"@wardpeet/gatsby-plugin-sharp-worker@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sharp-worker/-/gatsby-plugin-sharp-worker-0.0.6.tgz#51625b4496674da70554f7ef3e5023d7661424bf"
+  integrity sha512-ZoatLh23gaxMwFEU4bh5ZcIEGjd6zeywpJlyiEkJxtJwIUwajCp0jYXnl5nlpkrnzM7cRmc4+uIvEfQ9bmgw6w==
   dependencies:
     make-dir "^3.0.0"
     p-defer "^3.0.0"
     uuid "^3.3.3"
 
-"@wardpeet/gatsby-plugin-sqip-worker@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sqip-worker/-/gatsby-plugin-sqip-worker-0.0.2.tgz#39dad17143138ef9f47a97580e6b0f596e193e4c"
-  integrity sha512-R7P64nVVdRpGZfZBSivRpLPHNugSE1T1jhCWAZSZluF9VCjE/R1N665eyUrThPoMR3FGL9my2JR+uu//nXgDMg==
+"@wardpeet/gatsby-plugin-sqip-worker@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sqip-worker/-/gatsby-plugin-sqip-worker-0.0.6.tgz#626d95de2eb7bfcf834cf7b7df02accbe7d96c6f"
+  integrity sha512-dA1Mhf+klwt3D2jNLO97qdS9BxFAR0ChSrHOw6xjZpHcyDTAXmLWLbTKOnG0ANyptnsFIkqAZIS6mse0mA788A==
   dependencies:
     make-dir "^3.0.0"
     p-defer "^3.0.0"
     uuid "^3.3.3"
 
-"@wardpeet/gatsby-plugin-structured-logging-worker@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-structured-logging-worker/-/gatsby-plugin-structured-logging-worker-0.0.2.tgz#5a90f7f902109147f2b4365467c48a3f3651e5c2"
-  integrity sha512-PfKee62U2ZIuoTfxcLh4ESwx1jkWIM7WzYOC9k01e2n1umhJZJcYOLpuBLUvFujJ/q5RVNc77ponWp3zErygVQ==
+"@wardpeet/gatsby-plugin-structured-logging-worker@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-structured-logging-worker/-/gatsby-plugin-structured-logging-worker-0.0.6.tgz#ed8470cc06fc44ea5d5779426e58a093b1e3f4f5"
+  integrity sha512-dGHkE9gT8HoR2F0A0JT/qOSrqWcfcEBFb3d4dlR+OdSk8Hj1eB7WsNkysu/xBY234vDQKFCVDlwGf4tdhjdm/Q==
   dependencies:
     make-dir "^3.0.0"
     p-defer "^3.0.0"
